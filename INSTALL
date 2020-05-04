@@ -4,4 +4,4 @@
     The exact folder may be different on your system, but on mine it's in
     ~/.config/inkscape/extensions/
 
-    Windows install path is typically /Users/user/AppData/Roaming/Inkscape/Extensions/
+    Windows install path is typically %APPDATA%\inkscape\extensions
